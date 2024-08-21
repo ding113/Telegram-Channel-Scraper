@@ -1,0 +1,8 @@
+aiohttp==3.8.4
+beautifulsoup4==4.10.0
+PyYAML==6.0
+tqdm==4.64.1
+markdown==3.4.3
+fpdf==1.7.2
+XlsxWriter==3.0.3
+python-docx==0.8.11
