@@ -16,7 +16,7 @@ A powerful and flexible Python tool for scraping public Telegram channels.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/ding/Telegram-Channel-Scraper.git
+   git clone https://github.com/ding113/Telegram-Channel-Scraper.git
    cd Telegram-Channel-Scraper
    ```
 
@@ -29,7 +29,7 @@ A powerful and flexible Python tool for scraping public Telegram channels.
 
 1. (Optional) Create a default configuration file:
    ```
-   python src/telegram.py --create-config
+   python telegram.py --create-config
    ```
    This will create a `config.yaml` file with default settings.
 
@@ -37,7 +37,7 @@ A powerful and flexible Python tool for scraping public Telegram channels.
 
 3. Run the scraper:
    ```
-   python src/telegram.py
+   python telegram.py
    ```
 
 ### Command-line Options
@@ -50,7 +50,7 @@ A powerful and flexible Python tool for scraping public Telegram channels.
 
 Example:
 ```
-python src/telegram.py --channels channel1 channel2 -f json
+python telegram.py --channels channel1 channel2 -f json
 ```
 
 ## Configuration
